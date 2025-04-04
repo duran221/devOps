@@ -14,6 +14,7 @@
         <div class="card">
           <div class="card-header">
             <h4 class="card-title">¡Bienvenido!</h4>
+            <h4 class="card title">Sergio</h4>
           </div>
           <div class="card-body">
           <p> los amo</p>

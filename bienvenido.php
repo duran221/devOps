@@ -16,8 +16,8 @@
             <h4 class="card-title">¡Bienvenido!</h4>
           </div>
           <div class="card-body">
+            <a href="#" class="btn btn-danger">Iniciar Sesión.</a>
             <p><strong>Se ha registrado correctamente!!!! </strong>.</p>
-            <a href="#" class="btn btn-danger">Iniciar Sesión</a>
           </div>
         </div>
       </div>

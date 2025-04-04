@@ -13,7 +13,7 @@
       <div class="col-md-6">
         <div class="card">
           <div class="card-header">
-            <h4 class="card-title">¡Bienvenido!</h4>
+            <h4 class="card-title">¡Bienvenido 2 !</h4>
           </div>
           <div class="card-body">
             <a href="#" class="btn btn-danger">Iniciar Sesión.</a>

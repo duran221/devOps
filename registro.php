@@ -12,7 +12,7 @@ if ($conexion->connect_error) {
     exit(); // Usa exit() en lugar de die()
 }
 
-
+// Comment
 // --- Manejo del Registro ---
 if ($_SERVER["REQUEST_METHOD"] == "POST") { // Asumiendo un botón name="registrar"
    

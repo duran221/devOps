@@ -15,9 +15,11 @@
           <div class="card-header">
             <h4 class="card-title">¡Bienvenido 2 !</h4>
           </div>
-          <div class="card-body">
+          <span></span>
+          <div class="card-body"> <p></p>
+            <p></p>
+            <p><strong>Se ha registrado correctamente </strong>.</p>
             <a href="#" class="btn btn-danger">Iniciar Sesión.</a>
-            <p><strong>Se ha registrado correctamente!!!! </strong>.</p>
           </div>
         </div>
       </div>

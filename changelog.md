@@ -18,12 +18,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Added changelogs.
+- added a space in line 12
 
 ### Changed
 
 - At 'bienvenido.php'
-  - Modify structure for html and added spans
-
+	- Modify structure for html and added spans
+	- Modify the "title" from "Bienvenido" to "Bienvenidos todos"
+	- modify the "h4" from "!Bienvenido!" to  "!Bienvenido a todos!" 
+	
+	
 ### Removed
 
 - ##[1.0.1]

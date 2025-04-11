@@ -18,14 +18,16 @@
       <div class="col-md-6">
         <div class="card">
           <div class="card-header">
+            <h4 class="card-title">¡Bienvenido 2 !</h4>
             <title>Bienvenidos todos a la clase  </title>
             
           </div>
           <span></span>
+          </div>
           <div class="card-body"> <p></p>
             <p></p>
             <p><strong>Se ha registrado correctamente </strong>.</p>
-            <a href="#" class="btn btn-danger">Iniciar Sesión</a>
+            <a href="#" class="btn btn-danger">Iniciar Sesión.</a>
           </div>
         </div>
       </div>

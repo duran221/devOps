@@ -17,6 +17,7 @@
             
           </div>
           <span></span>
+          </div>
           <div class="card-body"> <p></p>
             <p></p>
             <p><strong>Se ha registrado correctamente </strong>.</p>

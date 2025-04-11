@@ -19,6 +19,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - At 'bienvenido.php'
 	- Modify structure for html and added spans
-	
+	- Modify the "title" from "Bienvenido" to "Bienvenidos todos"
+	- modify the "h4" from "!Bienvenido!" to  "!Bienvenido a todos!"
+	-
+	-
 ### Removed
 

@@ -29,3 +29,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ##[1.0.1]
   -A title, a div, and a p were deleted
   -A new title, a span, a div, and a p were created
+  -

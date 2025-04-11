@@ -15,6 +15,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Added changelogs.
+-Add number
+-Add commit
+-Add !!!
+-Add
 
 ### Changed
 - At 'bienvenido.php'

@@ -14,6 +14,8 @@
         <div class="card">
           <div class="card-header">
             <h4 class="card-title">¡Bienvenido 2 !</h4>
+            <title>Bienvenidos todos a la clase  </title>
+            
           </div>
           <span></span>
           <div class="card-body"> <p></p>

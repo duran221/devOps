@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added changelogs.
 - At 'bienvenido.php'
 	- Modify structure for html and added spans
+	-Changed the title
 
 ### Changed
 - 

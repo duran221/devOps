@@ -22,7 +22,7 @@
         </div>
       </div>
     </div>
-  </div>
+  	<span></span></div>
 
   <!-- Agregar el enlace al script de Bootstrap (requerido para algunos componentes interactivos) -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

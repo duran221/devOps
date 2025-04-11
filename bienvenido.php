@@ -13,17 +13,19 @@
       <div class="col-md-6">
         <div class="card">
           <div class="card-header">
-            <h4 class="card-title">¡Bienvenido!</h4>
+            <title>Bienvenidos todos a la clase  </title>
+            
           </div>
-          <div class="card-body">
-          <p> los amo</p>
+          <span></span>
+          <div class="card-body"> <p></p>
+            <p></p>
             <p><strong>Se ha registrado correctamente </strong>.</p>
             <a href="#" class="btn btn-danger">Iniciar Sesión</a>
           </div>
         </div>
       </div>
     </div>
-  </div>
+  	<span></span></div>
 
   <!-- Agregar el enlace al script de Bootstrap (requerido para algunos componentes interactivos) -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

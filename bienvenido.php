@@ -15,6 +15,7 @@
           <div class="card-header">
             <title>Bienvenidos todos a la clase  </title>
             
+          </div>
           <span></span>
           </div>
           <div class="card-body"> <p></p>
